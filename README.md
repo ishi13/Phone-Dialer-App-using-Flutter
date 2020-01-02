@@ -1,4 +1,4 @@
-# phone
+# IoS Phone Dialer App
 
 A new Flutter project.
 
